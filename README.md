@@ -12,6 +12,15 @@ $ gphoto2 --stdout --capture-movie | ffmpeg -i - -vcodec rawvideo -pix_fmt yuv42
 
 Now you'll be able to see your DSLR as input stream soure on /dev/video1
 
+#### Usefull gphoto2 commands
+
+```
+$ gphoto2 --shell
+$ gphoto2 --list-config
+$ 
+```
+
+
 ## Mac os
 
 - Install [Camera Live](https://github.com/v002/v002-Camera-Live/releases/tag/13) gphoto2 version
