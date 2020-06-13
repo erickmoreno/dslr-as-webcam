@@ -1,6 +1,6 @@
 # DSLRs as webcams
 
-How to make DSLRs works as webcams
+How to make DSLRs works as webcams  
 This is the main [reference](https://medium.com/nerdery/dslr-webcam-setup-for-linux-9b6d1b79ae22)
 
 ## Ubuntu
